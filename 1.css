@@ -1,0 +1,19 @@
+body{
+	background: url(https://codeby.net/blogs/wp-content/uploads/2014/08/featured.jpg);
+}
+textarea{
+	width: 600px;
+	height: 400px;
+	resize: none;
+	background-color: #e0ffff;
+	font-size: 20px;
+	font-family: "Times New Roman"
+	
+}
+
+label{
+  display: inline-block;
+  background: #efefef;
+  border-radius: 1px;
+  padding: 4px 8px;
+}
